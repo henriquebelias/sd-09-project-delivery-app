@@ -1,3 +1,6 @@
+# Esse projeto foi realizado durante o curso da Trybe, todos os requisitos e testes foram escritos pelas pessoas especialistas da Trybe
+
+
 ### Termos de acordo
 
 Ao iniciar este projeto, você concorda com as diretrizes do Código de Ética e Conduta e do Manual da Pessoa Estudante da Trybe.
